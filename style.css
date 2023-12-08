@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    margin: 50px;
+}
+input {
+    width: 40px;
+    font-size: 1em;
+}
+button {
+    font-size: 1em;
+    color: blueviolet;
+    margin: 5px;
+    padding: 10px;
+}
+#timer {
+    font-size: 2em;
+    margin-top: 20px;
+}
